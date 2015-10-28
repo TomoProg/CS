@@ -1,0 +1,14 @@
+C:\Users\Tomoki\AppData\Local\Temporary Projects\MouseVirus\bin\Release\MouseVirus.exe
+C:\Users\Tomoki\AppData\Local\Temporary Projects\MouseVirus\bin\Release\MouseVirus.pdb
+C:\Users\Tomoki\AppData\Local\Temporary Projects\MouseVirus\obj\x86\Release\MouseVirus.Form1.resources
+C:\Users\Tomoki\AppData\Local\Temporary Projects\MouseVirus\obj\x86\Release\MouseVirus.Properties.Resources.resources
+C:\Users\Tomoki\AppData\Local\Temporary Projects\MouseVirus\obj\x86\Release\MouseVirus.csproj.GenerateResource.Cache
+C:\Users\Tomoki\AppData\Local\Temporary Projects\MouseVirus\obj\x86\Release\MouseVirus.exe
+C:\Users\Tomoki\AppData\Local\Temporary Projects\MouseVirus\obj\x86\Release\MouseVirus.pdb
+C:\Users\Tomoki\documents\visual studio 2010\Projects\MouseVirus\MouseVirus\bin\Release\MouseVirus.exe
+C:\Users\Tomoki\documents\visual studio 2010\Projects\MouseVirus\MouseVirus\bin\Release\MouseVirus.pdb
+C:\Users\Tomoki\documents\visual studio 2010\Projects\MouseVirus\MouseVirus\obj\x86\Release\MouseVirus.Form1.resources
+C:\Users\Tomoki\documents\visual studio 2010\Projects\MouseVirus\MouseVirus\obj\x86\Release\MouseVirus.Properties.Resources.resources
+C:\Users\Tomoki\documents\visual studio 2010\Projects\MouseVirus\MouseVirus\obj\x86\Release\MouseVirus.csproj.GenerateResource.Cache
+C:\Users\Tomoki\documents\visual studio 2010\Projects\MouseVirus\MouseVirus\obj\x86\Release\MouseVirus.exe
+C:\Users\Tomoki\documents\visual studio 2010\Projects\MouseVirus\MouseVirus\obj\x86\Release\MouseVirus.pdb
